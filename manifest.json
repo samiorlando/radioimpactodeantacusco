@@ -1,6 +1,6 @@
 {
-  "name": "Radio Los Manes",
-  "short_name": "Radio Los Manes",
+  "name": "Radio impacto 89.1",
+  "short_name": "Radio impacto de anta",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#000000",
@@ -8,12 +8,12 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://i.postimg.cc/7P16p799/IMG-20250430-WA0323.jpg",
+      "src": "https://i.ibb.co/fV33sFGV/Dise-o-sin-t-tulo.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://i.postimg.cc/7P16p799/IMG-20250430-WA0323.jpg",
+      "src": "https://i.ibb.co/fV33sFGV/Dise-o-sin-t-tulo.png",
       "sizes": "512x512",
       "type": "image/png"
     }
